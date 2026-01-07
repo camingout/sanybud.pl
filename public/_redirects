@@ -1,3 +1,3 @@
 # Redirect with a 301
-https://sanybud.netlify.app https://sanybud.pl 301!
-https://sanybud.netlify.app/* https://sanybud.pl/:splat 301!
+https://sanybud.netlify.app https://sanybud.netlify.app 301!
+https://sanybud.netlify.app/* https://sanybud.netlify.app/:splat 301!
